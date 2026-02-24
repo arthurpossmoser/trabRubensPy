@@ -1,0 +1,501 @@
+﻿Nome,Cargo,Salário,Sexo
+Amanda Almeida,Estagiário,5804,Feminino
+Amanda Almeida,Analista de Dados,5741,Feminino
+Amanda Almeida,Estagiário,12148,Feminino
+Amanda Costa,Vendedor,7637,Feminino
+Amanda Costa,Recursos Humanos,13574,Feminino
+Amanda Lima,Vendedor,10122,Feminino
+Amanda Nascimento,Gerente de Projetos,12048,Feminino
+Amanda Nascimento,Desenvolvedor,6731,Feminino
+Amanda Nascimento,Estagiário,12393,Feminino
+Amanda Oliveira,Estagiário,4471,Feminino
+Amanda Oliveira,Gerente de Projetos,13036,Feminino
+Amanda Pereira,Diretor,2504,Feminino
+Amanda Pereira,Estagiário,3082,Feminino
+Amanda Pereira,Coordenador,4919,Feminino
+Amanda Rodrigues,Gerente de Projetos,9166,Feminino
+Amanda Rubeniano,Designer UX,7530,Feminino
+Amanda Rubeniano,Vendedor,3514,Feminino
+Amanda Rubeniano,Vendedor,5617,Feminino
+Amanda Rubeniano,Gerente de Projetos,13253,Feminino
+Amanda Santos,Designer UX,3257,Feminino
+Amanda Santos,Analista de Dados,10987,Feminino
+Amanda Silva,Gerente de Projetos,5604,Feminino
+Amanda Silva,Gerente de Projetos,12775,Feminino
+Amanda Souza,Recursos Humanos,11659,Feminino
+Amanda Souza,Analista de Dados,2854,Feminino
+Amanda Souza,Designer UX,11464,Feminino
+Amanda Souza,Analista de Dados,6758,Feminino
+Amanda Souza,Gerente de Projetos,6704,Feminino
+Ana Costa,Designer UX,10003,Feminino
+Ana Lima,Gerente de Projetos,13590,Feminino
+Ana Lima,Desenvolvedor,4186,Feminino
+Ana Lima,Diretor,14022,Feminino
+Ana Lima,Analista de Dados,6458,Feminino
+Ana Nascimento,Gerente de Projetos,4131,Feminino
+Ana Nascimento,Coordenador,8456,Feminino
+Ana Nascimento,Gerente de Projetos,0,Feminino
+Ana Nascimento,Desenvolvedor,14108,Feminino
+Ana Oliveira,Analista de Dados,4855,Feminino
+Ana Oliveira,Designer UX,4563,Feminino
+Ana Oliveira,Gerente de Projetos,9805,Feminino
+Ana Oliveira,Diretor,8391,Feminino
+Ana Pereira,Recursos Humanos,11865,Feminino
+Ana Pereira,Recursos Humanos,2889,Feminino
+Ana Pereira,Recursos Humanos,4101,Feminino
+Ana Rodrigues,Diretor,13019,Feminino
+Ana Rubeniano,Diretor,10201,Feminino
+Ana Santos,Vendedor,3364,Feminino
+Ana Santos,Gerente de Projetos,10641,Feminino
+Ana Santos,Designer UX,3181,Feminino
+Ana Santos,Vendedor,6113,Feminino
+Ana Santos,Gerente de Projetos,7195,Feminino
+Ana Silva,Coordenador,8887,Feminino
+Ana Souza,Designer UX,6056,Feminino
+Ana Souza,Desenvolvedor,9428,Feminino
+André Costa,Designer UX,7604,Masculino
+André Costa,Designer UX,10858,Masculino
+André Lima,Analista de Dados,10679,Masculino
+André Lima,Coordenador,6825,Masculino
+André Lima,Coordenador,14326,Masculino
+André Lima,Gerente de Projetos,8964,Masculino
+André Lima,Gerente de Projetos,9461,Masculino
+André Lima,Estagiário,2636,Masculino
+André Nascimento,Coordenador,4323,Masculino
+André Nascimento,Analista de Dados,6808,Masculino
+André Nascimento,Diretor,10418,Masculino
+André Nascimento,Coordenador,6739,Masculino
+André Nascimento,Gerente de Projetos,12137,Masculino
+André Nascimento,Diretor,11587,Masculino
+André Nascimento,Analista de Dados,9331,Masculino
+André Oliveira,Estagiário,6209,Masculino
+André Oliveira,Desenvolvedor,4855,Masculino
+André Oliveira,Recursos Humanos,0,Masculino
+André Pereira,Designer UX,6203,Masculino
+André Pereira,Estagiário,5206,Masculino
+André Pereira,Recursos Humanos,4539,Masculino
+André Rodrigues,Diretor,3412,Masculino
+André Rubeniano,Diretor,8314,Masculino
+André Rubeniano,Estagiário,7402,Masculino
+André Santos,Coordenador,12844,Masculino
+André Santos,Vendedor,10622,Masculino
+André Silva,Desenvolvedor,11496,Masculino
+André Silva,Diretor,12928,Masculino
+André Souza,Estagiário,12286,Masculino
+André Souza,Vendedor,8774,Masculino
+Beatriz Almeida,Vendedor,9066,Feminino
+Beatriz Almeida,Estagiário,2625,Feminino
+Beatriz Almeida,Vendedor,14725,Feminino
+Beatriz Almeida,Analista de Dados,4533,Feminino
+Beatriz Costa,Designer UX,10002,Feminino
+Beatriz Costa,Coordenador,12063,Feminino
+Beatriz Costa,Coordenador,5337,Feminino
+Beatriz Lima,Designer UX,10726,Feminino
+Beatriz Nascimento,Recursos Humanos,11264,Feminino
+Beatriz Nascimento,Designer UX,12207,Feminino
+Beatriz Nascimento,Estagiário,13226,Feminino
+Beatriz Nascimento,Designer UX,6365,Feminino
+Beatriz Nascimento,Coordenador,3368,Feminino
+Beatriz Oliveira,Recursos Humanos,10879,Feminino
+Beatriz Oliveira,Designer UX,7650,Feminino
+Beatriz Oliveira,Desenvolvedor,6272,Feminino
+Beatriz Oliveira,Analista de Dados,13963,Feminino
+Beatriz Pereira,Desenvolvedor,12369,Feminino
+Beatriz Rubeniano,Diretor,5199,Feminino
+Beatriz Rubeniano,Recursos Humanos,8169,Feminino
+Beatriz Santos,Recursos Humanos,12041,Feminino
+Beatriz Santos,Recursos Humanos,8805,Feminino
+Beatriz Santos,Vendedor,7854,Feminino
+Beatriz Silva,Vendedor,9127,Feminino
+Beatriz Souza,Diretor,14233,Feminino
+Bruno Almeida,Vendedor,8083,Masculino
+Bruno Almeida,Estagiário,7406,Masculino
+Bruno Almeida,Estagiário,4950,Masculino
+Bruno Costa,Desenvolvedor,8287,Masculino
+Bruno Costa,Recursos Humanos,11953,Masculino
+Bruno Costa,Recursos Humanos,4073,Masculino
+Bruno Costa,Estagiário,7684,Masculino
+Bruno Costa,Recursos Humanos,9281,Masculino
+Bruno Costa,Recursos Humanos,12604,Masculino
+Bruno Costa,Analista de Dados,13020,Masculino
+Bruno Lima,Vendedor,8341,Masculino
+Bruno Lima,Designer UX,9631,Masculino
+Bruno Nascimento,Vendedor,8246,Masculino
+Bruno Nascimento,Coordenador,11047,Masculino
+Bruno Nascimento,Designer UX,9341,Masculino
+Bruno Oliveira,Coordenador,11106,Masculino
+Bruno Rodrigues,Recursos Humanos,11890,Masculino
+Bruno Rodrigues,Diretor,8821,Masculino
+Bruno Rodrigues,Estagiário,0,Masculino
+Bruno Rubeniano,Recursos Humanos,6143,Masculino
+Bruno Rubeniano,Designer UX,5981,Masculino
+Bruno Santos,Desenvolvedor,2588,Masculino
+Bruno Santos,Estagiário,11087,Masculino
+Bruno Santos,Vendedor,6674,Masculino
+Bruno Souza,Estagiário,9741,Masculino
+Bruno Souza,Diretor,7437,Masculino
+Bruno Souza,Analista de Dados,6098,Masculino
+Camila Almeida,Gerente de Projetos,6649,Feminino
+Camila Almeida,Recursos Humanos,4704,Feminino
+Camila Almeida,Diretor,7980,Feminino
+Camila Almeida,Diretor,4458,Feminino
+Camila Almeida,Designer UX,3109,Feminino
+Camila Almeida,Coordenador,14554,Feminino
+Camila Costa,Analista de Dados,4719,Feminino
+Camila Lima,Estagiário,11571,Feminino
+Camila Lima,Diretor,9929,Feminino
+Camila Lima,Desenvolvedor,4258,Feminino
+Camila Lima,Designer UX,11091,Feminino
+Camila Rodrigues,Gerente de Projetos,13436,Feminino
+Camila Rodrigues,Coordenador,2778,Feminino
+Camila Rodrigues,Designer UX,14905,Feminino
+Camila Rodrigues,Coordenador,0,Feminino
+Camila Rubeniano,Estagiário,0,Feminino
+Camila Rubeniano,Gerente de Projetos,2598,Feminino
+Camila Rubeniano,Recursos Humanos,9308,Feminino
+Camila Rubeniano,Recursos Humanos,8527,Feminino
+Camila Rubeniano,Designer UX,6265,Feminino
+Camila Santos,Recursos Humanos,10476,Feminino
+Camila Santos,Diretor,7472,Feminino
+Camila Souza,Vendedor,13907,Feminino
+Carlos Costa,Designer UX,10403,Masculino
+Carlos Costa,Coordenador,5548,Masculino
+Carlos Costa,Estagiário,11869,Masculino
+Carlos Lima,Vendedor,12540,Masculino
+Carlos Lima,Recursos Humanos,10998,Masculino
+Carlos Nascimento,Diretor,0,Masculino
+Carlos Nascimento,Diretor,8650,Masculino
+Carlos Oliveira,Vendedor,9798,Masculino
+Carlos Oliveira,Diretor,5477,Masculino
+Carlos Pereira,Estagiário,12579,Masculino
+Carlos Rubeniano,Gerente de Projetos,7010,Masculino
+Carlos Rubeniano,Vendedor,14677,Masculino
+Carlos Rubeniano,Diretor,3522,Masculino
+Carlos Santos,Diretor,8211,Masculino
+Carlos Silva,Analista de Dados,11958,Masculino
+Carlos Silva,Coordenador,7231,Masculino
+Carlos Souza,Diretor,3384,Masculino
+Carlos Souza,Vendedor,10147,Masculino
+Carlos Souza,Recursos Humanos,0,Masculino
+Felipe Almeida,Analista de Dados,9665,Masculino
+Felipe Lima,Vendedor,4249,Masculino
+Felipe Lima,Estagiário,12602,Masculino
+Felipe Oliveira,Designer UX,4314,Masculino
+Felipe Rodrigues,Coordenador,6589,Masculino
+Felipe Rodrigues,Gerente de Projetos,12818,Masculino
+Felipe Rodrigues,Analista de Dados,14716,Masculino
+Felipe Rubeniano,Diretor,8425,Masculino
+Felipe Rubeniano,Analista de Dados,12001,Masculino
+Felipe Rubeniano,Diretor,9793,Masculino
+Felipe Santos,Vendedor,10148,Masculino
+Felipe Santos,Gerente de Projetos,13243,Masculino
+Felipe Silva,Designer UX,14881,Masculino
+Felipe Silva,Designer UX,6060,Masculino
+Felipe Silva,Estagiário,8050,Masculino
+Felipe Silva,Recursos Humanos,12475,Masculino
+Felipe Silva,Recursos Humanos,13989,Masculino
+Felipe Souza,Vendedor,5293,Masculino
+Felipe Souza,Analista de Dados,6355,Masculino
+Felipe Souza,Coordenador,7502,Masculino
+Felipe Souza,Estagiário,0,Masculino
+Felipe Souza,Coordenador,11843,Masculino
+Fernanda Almeida,Vendedor,7063,Feminino
+Fernanda Almeida,Coordenador,7529,Feminino
+Fernanda Costa,Estagiário,6929,Feminino
+Fernanda Costa,Diretor,12151,Feminino
+Fernanda Costa,Recursos Humanos,8327,Feminino
+Fernanda Lima,Gerente de Projetos,5077,Feminino
+Fernanda Lima,Recursos Humanos,4760,Feminino
+Fernanda Lima,Estagiário,5576,Feminino
+Fernanda Nascimento,Desenvolvedor,5489,Feminino
+Fernanda Nascimento,Desenvolvedor,5223,Feminino
+Fernanda Nascimento,Estagiário,5775,Feminino
+Fernanda Nascimento,Designer UX,6300,Feminino
+Fernanda Oliveira,Coordenador,9654,Feminino
+Fernanda Pereira,Designer UX,3405,Feminino
+Fernanda Pereira,Estagiário,12276,Feminino
+Fernanda Pereira,Recursos Humanos,0,Feminino
+Fernanda Pereira,Designer UX,13171,Feminino
+Fernanda Pereira,Designer UX,3344,Feminino
+Fernanda Pereira,Vendedor,4039,Feminino
+Fernanda Pereira,Vendedor,3660,Feminino
+Fernanda Rodrigues,Analista de Dados,12796,Feminino
+Fernanda Rodrigues,Recursos Humanos,10197,Feminino
+Fernanda Rodrigues,Analista de Dados,3082,Feminino
+Fernanda Rodrigues,Estagiário,7608,Feminino
+Fernanda Rodrigues,Recursos Humanos,5742,Feminino
+Fernanda Rodrigues,Gerente de Projetos,2958,Feminino
+Fernanda Rodrigues,Diretor,10260,Feminino
+Fernanda Rodrigues,Estagiário,10273,Feminino
+Fernanda Rubeniano,Coordenador,8707,Feminino
+Fernanda Rubeniano,Coordenador,12620,Feminino
+Fernanda Santos,Analista de Dados,8101,Feminino
+Fernanda Santos,Designer UX,10445,Feminino
+Fernanda Santos,Gerente de Projetos,14406,Feminino
+Fernanda Santos,Analista de Dados,5130,Feminino
+Fernanda Santos,Vendedor,2868,Feminino
+Fernanda Silva,Estagiário,11501,Feminino
+Fernanda Silva,Estagiário,11486,Feminino
+Fernanda Silva,Gerente de Projetos,10811,Feminino
+Fernanda Silva,Designer UX,8218,Feminino
+Fernando Costa,Diretor,8282,Masculino
+Fernando Lima,Analista de Dados,13976,Masculino
+Fernando Lima,Gerente de Projetos,7727,Masculino
+Fernando Lima,Desenvolvedor,4035,Masculino
+Fernando Nascimento,Vendedor,0,Masculino
+Fernando Nascimento,Coordenador,11751,Masculino
+Fernando Oliveira,Gerente de Projetos,5702,Masculino
+Fernando Oliveira,Recursos Humanos,3198,Masculino
+Fernando Pereira,Estagiário,11610,Masculino
+Fernando Rodrigues,Desenvolvedor,14195,Masculino
+Fernando Rodrigues,Analista de Dados,5912,Masculino
+Fernando Rubeniano,Desenvolvedor,7103,Masculino
+Fernando Rubeniano,Desenvolvedor,9676,Masculino
+Fernando Rubeniano,Recursos Humanos,7463,Masculino
+Fernando Rubeniano,Desenvolvedor,12748,Masculino
+Fernando Santos,Analista de Dados,6655,Masculino
+Fernando Santos,Recursos Humanos,11951,Masculino
+Fernando Silva,Coordenador,5391,Masculino
+João Almeida,Gerente de Projetos,8573,Masculino
+João Almeida,Vendedor,9536,Masculino
+João Almeida,Estagiário,4578,Masculino
+João Almeida,Coordenador,14746,Masculino
+João Almeida,Coordenador,6209,Masculino
+João Costa,Designer UX,6472,Masculino
+João Costa,Recursos Humanos,5941,Masculino
+João Costa,Vendedor,8708,Masculino
+João Costa,Recursos Humanos,14368,Masculino
+João Lima,Diretor,10649,Masculino
+João Nascimento,Recursos Humanos,10999,Masculino
+João Oliveira,Recursos Humanos,6920,Masculino
+João Oliveira,Designer UX,13612,Masculino
+João Pereira,Designer UX,4000,Masculino
+João Pereira,Designer UX,13427,Masculino
+João Pereira,Coordenador,12069,Masculino
+João Pereira,Designer UX,11256,Masculino
+João Rodrigues,Coordenador,10242,Masculino
+João Rodrigues,Recursos Humanos,5927,Masculino
+João Rodrigues,Vendedor,14874,Masculino
+João Rubeniano,Analista de Dados,11637,Masculino
+João Souza,Desenvolvedor,7600,Masculino
+João Souza,Vendedor,8853,Masculino
+Julia Almeida,Gerente de Projetos,14627,Feminino
+Julia Almeida,Recursos Humanos,4138,Feminino
+Julia Almeida,Gerente de Projetos,0,Feminino
+Julia Costa,Coordenador,9668,Feminino
+Julia Costa,Analista de Dados,13063,Feminino
+Julia Nascimento,Coordenador,7790,Feminino
+Julia Nascimento,Coordenador,8488,Feminino
+Julia Oliveira,Designer UX,9466,Feminino
+Julia Oliveira,Vendedor,13325,Feminino
+Julia Pereira,Analista de Dados,11353,Feminino
+Julia Pereira,Diretor,4402,Feminino
+Julia Pereira,Gerente de Projetos,14159,Feminino
+Julia Rodrigues,Desenvolvedor,5670,Feminino
+Julia Rodrigues,Gerente de Projetos,6650,Feminino
+Julia Rubeniano,Analista de Dados,4477,Feminino
+Julia Santos,Estagiário,13707,Feminino
+Julia Silva,Vendedor,5846,Feminino
+Julia Silva,Coordenador,13530,Feminino
+Julia Silva,Analista de Dados,7063,Feminino
+Julia Souza,Estagiário,12817,Feminino
+Julia Souza,Diretor,0,Feminino
+Julia Souza,Estagiário,13695,Feminino
+Julia Souza,Designer UX,13309,Feminino
+Larissa Almeida,Analista de Dados,12184,Feminino
+Larissa Almeida,Gerente de Projetos,6130,Feminino
+Larissa Costa,Diretor,5364,Feminino
+Larissa Costa,Estagiário,3056,Feminino
+Larissa Lima,Estagiário,4243,Feminino
+Larissa Lima,Gerente de Projetos,0,Feminino
+Larissa Lima,Diretor,6344,Feminino
+Larissa Nascimento,Desenvolvedor,7395,Feminino
+Larissa Nascimento,Vendedor,0,Feminino
+Larissa Pereira,Vendedor,14636,Feminino
+Larissa Rodrigues,Gerente de Projetos,9252,Feminino
+Larissa Rodrigues,Coordenador,10233,Feminino
+Larissa Rodrigues,Diretor,14251,Feminino
+Larissa Rodrigues,Diretor,6759,Feminino
+Larissa Rodrigues,Analista de Dados,4078,Feminino
+Larissa Rodrigues,Vendedor,11016,Feminino
+Larissa Rubeniano,Recursos Humanos,9132,Feminino
+Larissa Rubeniano,Coordenador,4668,Feminino
+Larissa Rubeniano,Desenvolvedor,3214,Feminino
+Larissa Rubeniano,Recursos Humanos,5481,Feminino
+Larissa Santos,Diretor,5445,Feminino
+Larissa Santos,Diretor,11067,Feminino
+Larissa Silva,Coordenador,13960,Feminino
+Larissa Silva,Gerente de Projetos,7516,Feminino
+Larissa Souza,Vendedor,10528,Feminino
+Letícia Almeida,Designer UX,12161,Feminino
+Letícia Almeida,Diretor,13104,Feminino
+Letícia Costa,Gerente de Projetos,10628,Feminino
+Letícia Costa,Gerente de Projetos,13620,Feminino
+Letícia Costa,Coordenador,3720,Feminino
+Letícia Costa,Recursos Humanos,3644,Feminino
+Letícia Costa,Gerente de Projetos,3565,Feminino
+Letícia Lima,Coordenador,11300,Feminino
+Letícia Lima,Gerente de Projetos,12542,Feminino
+Letícia Nascimento,Analista de Dados,11459,Feminino
+Letícia Nascimento,Diretor,10298,Feminino
+Letícia Oliveira,Analista de Dados,10582,Feminino
+Letícia Oliveira,Designer UX,5668,Feminino
+Letícia Pereira,Estagiário,7810,Feminino
+Letícia Pereira,Coordenador,6487,Feminino
+Letícia Rodrigues,Diretor,9055,Feminino
+Letícia Rodrigues,Recursos Humanos,8482,Feminino
+Letícia Rodrigues,Estagiário,2763,Feminino
+Letícia Rubeniano,Coordenador,9860,Feminino
+Letícia Rubeniano,Vendedor,11101,Feminino
+Letícia Santos,Diretor,12833,Feminino
+Letícia Silva,Analista de Dados,12192,Feminino
+Letícia Silva,Analista de Dados,5740,Feminino
+Letícia Silva,Designer UX,3792,Feminino
+Letícia Silva,Analista de Dados,4082,Feminino
+Letícia Souza,Designer UX,11175,Feminino
+Letícia Souza,Gerente de Projetos,6147,Feminino
+Letícia Souza,Desenvolvedor,0,Feminino
+Letícia Souza,Analista de Dados,5232,Feminino
+Lucas Costa,Vendedor,8509,Masculino
+Lucas Oliveira,Coordenador,14106,Masculino
+Lucas Oliveira,Estagiário,3314,Masculino
+Lucas Oliveira,Designer UX,4547,Masculino
+Lucas Pereira,Analista de Dados,9093,Masculino
+Lucas Rubeniano,Analista de Dados,12778,Masculino
+Lucas Santos,Designer UX,14447,Masculino
+Lucas Santos,Diretor,7912,Masculino
+Lucas Santos,Recursos Humanos,14785,Masculino
+Lucas Santos,Vendedor,9846,Masculino
+Lucas Santos,Designer UX,11232,Masculino
+Lucas Santos,Analista de Dados,7826,Masculino
+Lucas Silva,Designer UX,6772,Masculino
+Lucas Silva,Gerente de Projetos,14295,Masculino
+Lucas Silva,Diretor,0,Masculino
+Lucas Souza,Diretor,14892,Masculino
+Lucas Souza,Gerente de Projetos,11995,Masculino
+Lucas Souza,Gerente de Projetos,6789,Masculino
+Lucas Souza,Designer UX,7524,Masculino
+Lucas Souza,Estagiário,5970,Masculino
+Lucas Souza,Estagiário,9015,Masculino
+Marina Almeida,Diretor,2528,Feminino
+Marina Almeida,Diretor,11263,Feminino
+Marina Almeida,Vendedor,9416,Feminino
+Marina Costa,Designer UX,7157,Feminino
+Marina Costa,Designer UX,10545,Feminino
+Marina Costa,Estagiário,11823,Feminino
+Marina Lima,Coordenador,10492,Feminino
+Marina Oliveira,Recursos Humanos,12918,Feminino
+Marina Oliveira,Designer UX,9666,Feminino
+Marina Oliveira,Recursos Humanos,4037,Feminino
+Marina Pereira,Desenvolvedor,14864,Feminino
+Marina Pereira,Analista de Dados,4840,Feminino
+Marina Rodrigues,Recursos Humanos,11340,Feminino
+Marina Rubeniano,Vendedor,13555,Feminino
+Marina Rubeniano,Coordenador,10014,Feminino
+Marina Santos,Desenvolvedor,5579,Feminino
+Marina Silva,Analista de Dados,8897,Feminino
+Marina Souza,Analista de Dados,7668,Feminino
+Mateus Costa,Designer UX,10525,Masculino
+Mateus Costa,Designer UX,12541,Masculino
+Mateus Nascimento,Desenvolvedor,9915,Masculino
+Mateus Oliveira,Analista de Dados,5333,Masculino
+Mateus Pereira,Estagiário,9800,Masculino
+Mateus Pereira,Vendedor,12606,Masculino
+Mateus Rubeniano,Designer UX,13626,Masculino
+Mateus Rubeniano,Vendedor,14583,Masculino
+Mateus Rubeniano,Analista de Dados,9362,Masculino
+Mateus Rubeniano,Gerente de Projetos,9020,Masculino
+Mateus Santos,Vendedor,5249,Masculino
+Mateus Santos,Diretor,10424,Masculino
+Mateus Santos,Vendedor,6576,Masculino
+Mateus Silva,Recursos Humanos,13769,Masculino
+Mateus Silva,Gerente de Projetos,6079,Masculino
+Mateus Silva,Desenvolvedor,2985,Masculino
+Mateus Souza,Vendedor,9991,Masculino
+Paula Almeida,Diretor,3785,Feminino
+Paula Almeida,Diretor,11894,Feminino
+Paula Almeida,Vendedor,14270,Feminino
+Paula Almeida,Desenvolvedor,8501,Feminino
+Paula Almeida,Estagiário,12792,Feminino
+Paula Almeida,Estagiário,9402,Feminino
+Paula Costa,Designer UX,4240,Feminino
+Paula Costa,Gerente de Projetos,14847,Feminino
+Paula Nascimento,Vendedor,3047,Feminino
+Paula Nascimento,Diretor,12496,Feminino
+Paula Oliveira,Analista de Dados,13294,Feminino
+Paula Oliveira,Coordenador,6803,Feminino
+Paula Pereira,Desenvolvedor,0,Feminino
+Paula Pereira,Desenvolvedor,8778,Feminino
+Paula Pereira,Vendedor,9484,Feminino
+Paula Rodrigues,Recursos Humanos,14399,Feminino
+Paula Rubeniano,Gerente de Projetos,5329,Feminino
+Paula Rubeniano,Vendedor,12886,Feminino
+Paula Rubeniano,Vendedor,9687,Feminino
+Paula Santos,Diretor,7271,Feminino
+Paula Santos,Diretor,5594,Feminino
+Paula Silva,Designer UX,7048,Feminino
+Paula Silva,Coordenador,0,Feminino
+Paula Souza,Estagiário,9886,Feminino
+Paula Souza,Desenvolvedor,8365,Feminino
+Paula Souza,Analista de Dados,3647,Feminino
+Ricardo Almeida,Recursos Humanos,9577,Masculino
+Ricardo Almeida,Diretor,9815,Masculino
+Ricardo Almeida,Vendedor,12589,Masculino
+Ricardo Almeida,Vendedor,8269,Masculino
+Ricardo Costa,Desenvolvedor,11765,Masculino
+Ricardo Costa,Diretor,13090,Masculino
+Ricardo Costa,Vendedor,0,Masculino
+Ricardo Costa,Estagiário,11776,Masculino
+Ricardo Costa,Designer UX,3429,Masculino
+Ricardo Costa,Designer UX,13675,Masculino
+Ricardo Costa,Vendedor,9886,Masculino
+Ricardo Lima,Desenvolvedor,4029,Masculino
+Ricardo Lima,Vendedor,14645,Masculino
+Ricardo Lima,Recursos Humanos,11155,Masculino
+Ricardo Nascimento,Diretor,2683,Masculino
+Ricardo Nascimento,Desenvolvedor,3978,Masculino
+Ricardo Nascimento,Diretor,4605,Masculino
+Ricardo Oliveira,Gerente de Projetos,9383,Masculino
+Ricardo Oliveira,Diretor,8334,Masculino
+Ricardo Oliveira,Analista de Dados,12832,Masculino
+Ricardo Pereira,Coordenador,12883,Masculino
+Ricardo Pereira,Gerente de Projetos,0,Masculino
+Ricardo Rodrigues,Diretor,0,Masculino
+Ricardo Rodrigues,Diretor,11570,Masculino
+Ricardo Rodrigues,Diretor,9450,Masculino
+Ricardo Rodrigues,Analista de Dados,6329,Masculino
+Ricardo Rubeniano,Diretor,11848,Masculino
+Ricardo Rubeniano,Diretor,8419,Masculino
+Ricardo Rubeniano,Designer UX,9173,Masculino
+Ricardo Rubeniano,Recursos Humanos,11138,Masculino
+Ricardo Santos,Vendedor,7539,Masculino
+Ricardo Santos,Analista de Dados,14039,Masculino
+Ricardo Silva,Estagiário,4526,Masculino
+Ricardo Souza,Recursos Humanos,11201,Masculino
+Tiago Almeida,Vendedor,0,Masculino
+Tiago Almeida,Recursos Humanos,7384,Masculino
+Tiago Costa,Diretor,6836,Masculino
+Tiago Lima,Analista de Dados,0,Masculino
+Tiago Lima,Recursos Humanos,11694,Masculino
+Tiago Nascimento,Designer UX,6854,Masculino
+Tiago Nascimento,Analista de Dados,5462,Masculino
+Tiago Nascimento,Coordenador,6862,Masculino
+Tiago Nascimento,Analista de Dados,5646,Masculino
+Tiago Nascimento,Recursos Humanos,3420,Masculino
+Tiago Nascimento,Designer UX,9687,Masculino
+Tiago Oliveira,Diretor,8757,Masculino
+Tiago Oliveira,Recursos Humanos,0,Masculino
+Tiago Oliveira,Designer UX,10067,Masculino
+Tiago Pereira,Designer UX,7417,Masculino
+Tiago Pereira,Gerente de Projetos,4344,Masculino
+Tiago Pereira,Gerente de Projetos,2666,Masculino
+Tiago Rubeniano,Analista de Dados,3807,Masculino
+Tiago Santos,Estagiário,4396,Masculino
+Tiago Santos,Estagiário,0,Masculino
+Tiago Santos,Coordenador,7430,Masculino
+Tiago Santos,Estagiário,13394,Masculino
+Tiago Santos,Estagiário,4585,Masculino
+Tiago Silva,Desenvolvedor,14774,Masculino
+Tiago Silva,Designer UX,9955,Masculino
+Tiago Silva,Desenvolvedor,14498,Masculino
+Tiago Souza,Designer UX,5992,Masculino
