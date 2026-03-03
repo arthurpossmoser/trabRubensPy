@@ -56,17 +56,6 @@ resumo = pd.DataFrame({
 print("\n===== RESUMO =====")
 print(resumo.to_string(index=False))
 
-def buscar_salario_por_nome(nome_procurado: str):
-    achou = df[df["Nome"].str.lower() == nome_procurado.strip().lower()]
-    if achou.empty:
-        return f"Nome '{nome_procurado}' não encontrado."
-
-    return achou[["Nome", "Cargo", "Salário", "Sexo"]]
-
-print("\n===== BUSCA POR NOME (exemplo) =====")
-print(buscar_salario_por_nome("Ana Silva"))
-
-
 df.to_csv("tabela_funcionarios_500.csv", index=False, encoding="utf-8-sig")
 df.to_excel("tabela_funcionarios_500.xlsx", index=False)
 
@@ -79,3 +68,4 @@ print("- tabela_funcionarios_500.xlsx")
 print("- resumo_empresa.csv")
 
 print("- resumo_empresa.xlsx")
+
